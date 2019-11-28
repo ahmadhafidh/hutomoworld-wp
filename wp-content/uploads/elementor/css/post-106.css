@@ -1,0 +1,28 @@
+.elementor-106 .elementor-element.elementor-element-96fc981 > .elementor-container{min-height:100vh;}.elementor-106 .elementor-element.elementor-element-96fc981 > .elementor-container:after{content:"";min-height:inherit;}.elementor-106 .elementor-element.elementor-element-96fc981 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:flex-start;align-items:flex-start;}.elementor-106 .elementor-element.elementor-element-96fc981{overflow:hidden;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:0% 0% 0% 0%;}.elementor-106 .elementor-element.elementor-element-96fc981:not(.elementor-motion-effects-element-type-background), .elementor-106 .elementor-element.elementor-element-96fc981 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://kitatechnology.com/staging/hutomoworld-wp/wp-content/uploads/2019/11/Hutomo-World-1.jpg");background-repeat:no-repeat;background-size:cover;}.elementor-106 .elementor-element.elementor-element-96fc981 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-106 .elementor-element.elementor-element-a8f910a > .elementor-element-populated{margin:0% 0% 0% 0%;padding:0% 0% 0% 0%;}.elementor-106 .elementor-element.elementor-element-c8c1792{text-align:center;width:100%;max-width:100%;top:0px;}.elementor-106 .elementor-element.elementor-element-c8c1792 .elementor-image img{width:100%;}.elementor-106 .elementor-element.elementor-element-c8c1792 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}body:not(.rtl) .elementor-106 .elementor-element.elementor-element-c8c1792{left:0px;}body.rtl .elementor-106 .elementor-element.elementor-element-c8c1792{right:0px;}.elementor-106 .elementor-element.elementor-element-4819bc7{text-align:center;width:100%;max-width:100%;top:0px;}.elementor-106 .elementor-element.elementor-element-4819bc7 .elementor-image img{width:100%;}.elementor-106 .elementor-element.elementor-element-4819bc7 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}body:not(.rtl) .elementor-106 .elementor-element.elementor-element-4819bc7{left:0px;}body.rtl .elementor-106 .elementor-element.elementor-element-4819bc7{right:0px;}.elementor-106 .elementor-element.elementor-element-972a92a{text-align:center;width:100%;max-width:100%;top:0px;}.elementor-106 .elementor-element.elementor-element-972a92a .elementor-image img{width:100%;}.elementor-106 .elementor-element.elementor-element-972a92a > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}body:not(.rtl) .elementor-106 .elementor-element.elementor-element-972a92a{left:0px;}body.rtl .elementor-106 .elementor-element.elementor-element-972a92a{right:0px;}@media(min-width:1025px){.elementor-106 .elementor-element.elementor-element-96fc981:not(.elementor-motion-effects-element-type-background), .elementor-106 .elementor-element.elementor-element-96fc981 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-attachment:scroll;}}@media(max-width:1024px){.elementor-106 .elementor-element.elementor-element-96fc981 > .elementor-container{min-height:100vh;}.elementor-106 .elementor-element.elementor-element-96fc981 > .elementor-container:after{content:"";min-height:inherit;}}@media(max-width:767px){.elementor-106 .elementor-element.elementor-element-96fc981 > .elementor-container{min-height:100vh;}.elementor-106 .elementor-element.elementor-element-96fc981 > .elementor-container:after{content:"";min-height:inherit;}}/* Start custom CSS for column, class: .elementor-element-a8f910a */#home-image-column {
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+}
+#home-image-column .home-image-bg, 
+#home-image-column .home-image-bg > .elementor-widget-container,
+#home-image-column .home-image-bg > .elementor-widget-container > .elementor-image {
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
+#home-image-column .home-image-bg {
+    opacity: 0;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+}
+#home-image-column .home-image-bg img {
+    object-fit: cover;
+}/* End custom CSS */
